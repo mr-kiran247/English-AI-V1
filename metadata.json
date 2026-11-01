@@ -1,0 +1,6 @@
+{
+  "name": "BoliSpeak - AI English Speaking & Grammar Coach",
+  "description": "Interactive English conversational practice and instant grammar coaching for daily life and professional speaking, with Hindi and Marathi native language guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
